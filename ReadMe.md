@@ -1,6 +1,6 @@
 # Domaci za PP2, specijalna grupa
 
-## Domaci 1:
+## Domaci 1 - Normalan:
 Sastaviti program na programskom jeziku C koji vrši određenu vrstu obrade nad ulaznim nizom/nizovima. Program treba da:
 1. Učita sve potrebne podatke (dužinu niza, elemente niza, itd.);
 2. Izvrši zahtevanu obradu;
