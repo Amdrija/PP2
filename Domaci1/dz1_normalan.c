@@ -24,22 +24,19 @@ int max(int a, int b)
 }
 void vodje(int *niz, int n)
 {
-    int desni_max[n - 1]; //i-ti element niza sadrzi maximum elemenata desno od njega
+    int desni_max[n]; //i-ti element niza sadrzi maximum elemenata desno od njega
 
-    desni_max[n - 2] = niz[n - 1];
-    for(int i = n - 3; i >= 0; i--)
+    desni_max[n - 1] = niz[n - 1];
+    for(int i = n - 2; i >= 0; i--)
     {
         desni_max[i] = max(desni_max[i + 1], niz[i + 1]);
-    }
 
-    for(int i = 0; i < n - 1; i++)
-    {
+        //Ako je trenutni element veci od max svih elemenata desno od njega onda je vodja
         if(niz[i] > desni_max[i])
         {
             printf("%d , ",niz[i]);
         }
     }
-
 
 }
 int main()
