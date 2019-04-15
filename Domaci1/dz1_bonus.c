@@ -31,6 +31,7 @@ int main()
     int n, milk = 0;
     bool milking[MAXLEN] = {0};
 
+    printf("%d",sizeof(long));
     scanf("%d", &n);
     for(int i = 0; i < n; i++)
     {
