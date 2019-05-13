@@ -3,7 +3,7 @@
 #include <string.h>
 
 
-#define MAXDUZ 60
+#define MAXDUZ 100
 
 void write(char **s, int n)
 {
@@ -63,6 +63,14 @@ char* format(char *s)
     strcat(block, block_start + 5);
     strcat(condition, ")");
     strcat(block, "}");
+
+    free(s);
+    s = (char*)malloc((2 + strlen(condition) + strlen(block)) * sizeof(char));
+    if(s == NULL)
+    {
+        printf("Failed to format: Memory allocation error.");
+        exit(1);
+    }
 
     *s = '\0';
     strcat(s,"if");
