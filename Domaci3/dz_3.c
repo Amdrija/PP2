@@ -83,6 +83,112 @@ char* format(char *s)
     return s;
 }
 
+char* format2(char *s)
+{
+    int i = 0, j = 0, br_velikih = 0;
+    while(s[i] != '\0')
+    {
+        br_velikih += (s[i] >= 'A' && s[i++] <='Z');
+    }
+
+    j = strlen(s);
+    i = strlen(s) + br_velikih;
+    s = (char*)realloc(s, (strlen(s) + br_velikih) * sizeof(char));
+
+    while(j >= 0)
+    {
+        if(s[j] >= 'A' && s[j] <= 'Z')
+        {
+            s[i--] = s[j] - 'A' + 'a';
+            s[i--] = '_';
+        }
+        else
+        {
+            s[i--] = s[j];
+        }
+        j--;
+        
+    }
+    return s;
+}
+
+char* format3(char *s)
+{
+    int cif[10] = {0}, i = 0, min_parna_cif = -1;
+
+    while(s[i] != '\0')
+    {
+        cif[s[i++] - '0']++;
+    }
+
+    for(i = 0; i < 10; i += 2)
+    {
+        if(cif[i])
+        {
+            cif[i]--;
+            min_parna_cif = i;
+            break;
+        }
+    }
+
+    if(min_parna_cif == -1)
+        return "Nema parnih cifara.";
+
+
+    s[strlen(s) - 1] = min_parna_cif + '0';
+    i = 0;
+    for(int j = 9; j >= 0; j--)
+    {
+        while(cif[j])
+        {
+            s[i++] = j + '0';
+            cif[j]--;
+        }
+    }
+
+    return s;
+}
+
+int is_alpha(char a)
+{
+    return (a >= 'a' && a <= 'z') || (a >= 'A' && a <='Z');
+}
+
+char to_lower(char a)
+{
+    return a - ('A' - 'a') * (a <= 'Z');
+}
+
+
+char frequent_letter(char *s)
+{
+    int slova[26] = {0}, i = 0;
+    while(s[i] != '\0')
+    {
+        if(is_alpha(s[i]))
+        {
+            slova[to_lower(s[i]) - 'a']++;
+        }
+        i++;
+    }
+
+    int max = 0;
+    char max_slovo = ' ';
+    for(i = 0; i < 26; i++)
+    {
+        if(slova[i] > max)
+        {
+            max = slova[i];
+            max_slovo = i + 'A';
+        }
+    }
+
+
+    return max_slovo;
+}
+
+
+
 int main()
 {
     char **s, c, *trenutni_string;
@@ -159,7 +265,7 @@ int main()
             write(s, n);
             printf("*****************\n");
             for(int i = 0; i < n; i++)
-                printf("%s\n",format(s[i]));
+                printf("%c\n",frequent_letter(s[i]));
             delete_string(s, n);
 
             //ako nije kraj programa, onda resetuj niz stringova s
