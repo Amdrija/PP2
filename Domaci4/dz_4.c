@@ -53,6 +53,11 @@ int main()
             {
                 pisi(p[i]);
             }
+            for(int i = 0; i < m; i++)
+            {
+                    brisi(p[i]);
+            }
+            free(p);
             break;
     
     default:

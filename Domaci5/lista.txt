@@ -1,0 +1,3560 @@
+Start: 1.000
+End: 4.074
+Subtitles downloaded from www.OpenSubtitles.org
+
+Start: 114.420
+End: 116.490
+- Captain.
+- Yes, sir?
+
+Start: 116.620
+End: 118.656
+Tell them we wish
+to board at once.
+
+Start: 120.100
+End: 121.453
+With all due respect...
+
+Start: 121.580
+End: 124.652
+the ambassadors for the supreme
+chancellor wish to board immediately.
+
+Start: 124.780
+End: 126.577
+<i>Yes, of course.</i>
+
+Start: 126.700
+End: 129.658
+<i>As you know,
+our blockade is perfectly legal...</i>
+
+Start: 129.780
+End: 133.693
+<i>and we'd be happy
+to receive the ambassadors.</i>
+
+Start: 155.260
+End: 157.774
+I'm TC-14 at your service.
+
+Start: 157.900
+End: 159.697
+This way, please.
+
+Start: 165.580
+End: 168.492
+We are greatly honoured
+by your visit, Ambassadors.
+
+Start: 168.620
+End: 170.417
+Make yourselves comfortable.
+
+Start: 170.540
+End: 172.770
+My master
+will be with you shortly.
+
+Start: 176.500
+End: 178.695
+I have a bad feeling about this.
+
+Start: 178.820
+End: 181.698
+- I don't sense anything.
+- It's not about the mission, Master.
+
+Start: 181.820
+End: 185.574
+It's something elsewhere, elusive.
+
+Start: 185.700
+End: 187.975
+Don't centre on your anxieties,
+Obi-Wan.
+
+Start: 188.100
+End: 191.092
+Keep your concentration here and now,
+where it belongs.
+
+Start: 191.220
+End: 193.939
+But Master Yoda said
+I should be mindful of the future.
+
+Start: 194.060
+End: 195.971
+But not at the expense
+of the moment.
+
+Start: 196.100
+End: 198.898
+Be mindful of the living Force,
+young Padawan.
+
+Start: 199.020
+End: 200.851
+Yes, Master.
+
+Start: 202.980
+End: 206.450
+How do you think this trade viceroy
+will deal with the chancellor's demands?
+
+Start: 206.580
+End: 208.616
+These Federation types are cowards.
+
+Start: 208.740
+End: 211.459
+The negotiations will be short.
+
+Start: 212.300
+End: 214.734
+What? What did you say?
+
+Start: 214.860
+End: 217.693
+The ambassadors are Jedi knights,
+I believe.
+
+Start: 218.420
+End: 219.569
+I knew it.
+
+Start: 219.700
+End: 221.850
+They're here to force a settlement.
+
+Start: 223.140
+End: 226.098
+Distract them.
+I will contact Lord Sidious.
+
+Start: 226.220
+End: 227.733
+Are you brain-dead?
+
+Start: 227.860
+End: 230.579
+I'm not going in there
+with two Jedi.
+
+Start: 232.180
+End: 233.533
+Send a droid.
+
+Start: 238.780
+End: 240.577
+Is it in their nature
+to make us wait this long?
+
+Start: 240.700
+End: 242.895
+No. I sense
+an unusual amount of fear...
+
+Start: 243.020
+End: 245.056
+for something as trivial
+as this trade dispute.
+
+Start: 255.540
+End: 257.337
+<i>What is it?</i>
+
+Start: 257.460
+End: 260.020
+This scheme of yours has failed,
+Lord Sidious.
+
+Start: 260.140
+End: 263.530
+The blockade is finished.
+We dare not go against these Jedi.
+
+Start: 263.660
+End: 268.256
+<i>Viceroy, I don't want
+this stunted slime in my sight again.</i>
+
+Start: 269.580
+End: 273.459
+<i>This turn of events is unfortunate.
+We must accelerate our plans.</i>
+
+Start: 273.580
+End: 276.014
+<i>Begin landing your troops.</i>
+
+Start: 276.140
+End: 279.689
+My lord, is that legal?
+
+Start: 279.820
+End: 282.015
+<i>I will make it legal.</i>
+
+Start: 282.140
+End: 284.335
+And the Jedi?
+
+Start: 284.460
+End: 286.849
+<i>The chancellor should never have
+brought them into this.</i>
+
+Start: 286.980
+End: 288.652
+<i>Kill them immediately.</i>
+
+Start: 288.780
+End: 292.898
+Yes, my lord.
+As you wish.
+
+Start: 294.700
+End: 296.418
+Captain, look!
+
+Start: 297.500
+End: 298.819
+Shields--
+
+Start: 302.180
+End: 303.977
+Sorry.
+
+Start: 305.660
+End: 307.457
+Dioxis.
+
+Start: 312.140
+End: 314.608
+<i>They must be dead by now.</i>
+
+Start: 314.740
+End: 317.300
+<i>Destroy what's left of them.</i>
+
+Start: 325.100
+End: 327.375
+Oh! Excuse me.
+
+Start: 327.500
+End: 330.333
+-Check it out, Corporal. We'll cover you.
+-Roger, roger.
+
+Start: 331.260
+End: 332.852
+Uh-oh. Blast them.
+
+Start: 338.380
+End: 339.859
+What is going on down there?
+
+Start: 339.980
+End: 341.857
+We lost the transmission, sir.
+
+Start: 346.180
+End: 349.058
+Have you ever encountered
+a Jedi knight before, sir?
+
+Start: 349.180
+End: 352.013
+Well, no, but I don't--
+Seal off the bridge.
+
+Start: 352.140
+End: 354.734
+- Yes, sir.
+- That won't be enough, sir.
+
+Start: 354.860
+End: 356.737
+I want droidekas
+up here at once!
+
+Start: 356.860
+End: 359.294
+We will not survive this.
+
+Start: 370.380
+End: 371.733
+Close the blast doors!
+
+Start: 378.100
+End: 380.170
+That will hold them.
+
+Start: 388.300
+End: 390.894
+They are still coming through.
+
+Start: 391.020
+End: 392.851
+This is impossible!
+
+Start: 397.180
+End: 399.899
+Where are those droidekas?
+
+Start: 401.420
+End: 403.092
+Master! Destroyers!
+
+Start: 409.260
+End: 410.579
+They have shield generators!
+
+Start: 411.980
+End: 414.574
+It's a standoff.
+Let's go.
+
+Start: 418.580
+End: 420.969
+They're no match for droidekas.
+
+Start: 421.100
+End: 422.692
+Sir!
+
+Start: 422.820
+End: 425.380
+They've gone up
+the ventilation shaft.
+
+Start: 433.820
+End: 436.380
+- Battle droids.
+- It's an invasion army.
+
+Start: 438.060
+End: 440.620
+This is an odd play
+for the Trade Federation.
+
+Start: 440.740
+End: 443.698
+We've got to warn the Naboo
+and contact Chancellor Valorum.
+
+Start: 443.820
+End: 445.299
+Let's split up.
+
+Start: 445.420
+End: 448.492
+Stow aboard separate ships
+and meet down on the planet.
+
+Start: 448.620
+End: 450.372
+You were right
+about one thing, Master.
+
+Start: 452.260
+End: 454.820
+The negotiations were short.
+
+Start: 455.940
+End: 458.249
+Sir, a transmission
+from the planet.
+
+Start: 458.380
+End: 460.371
+It's Queen Amidala herself.
+
+Start: 460.500
+End: 462.809
+At last we are getting results.
+
+Start: 464.140
+End: 467.018
+Again you come before us,
+Your Highness.
+
+Start: 467.140
+End: 470.098
+<i>You will not be so pleased when you hear
+what I have to say, Viceroy.</i>
+
+Start: 470.220
+End: 473.769
+<i>Your trade boycott
+of our planet has ended.</i>
+
+Start: 473.900
+End: 476.334
+I was not aware of such failure.
+
+Start: 476.460
+End: 479.054
+<i>I have word that the chancellor's
+ambassadors are with you now...</i>
+
+Start: 479.180
+End: 481.774
+<i>and that you have been commanded
+to reach settlement.</i>
+
+Start: 481.900
+End: 484.050
+I know nothing
+of any ambassadors.
+
+Start: 484.180
+End: 486.455
+You must be mistaken.
+
+Start: 486.580
+End: 488.491
+<i>Beware, Viceroy.</i>
+
+Start: 488.620
+End: 491.214
+<i>The Federation
+has gone too far this time.</i>
+
+Start: 491.340
+End: 495.219
+We would never do anything
+without the approval of the senate.
+
+Start: 495.340
+End: 497.729
+You assume too much.
+
+Start: 497.860
+End: 499.179
+<i>We will see.</i>
+
+Start: 500.740
+End: 504.574
+- She's right. The senate will never--
+- It's too late now.
+
+Start: 504.700
+End: 507.533
+- Do you think she suspects an attack?
+- I don't know.
+
+Start: 507.660
+End: 511.812
+But we must move quickly to disrupt
+all communications down there.
+
+Start: 517.100
+End: 520.695
+<i>Negotiations haven't started
+because the ambassadors aren't there?</i>
+
+Start: 520.820
+End: 522.890
+<i>How could that be true?</i>
+
+Start: 523.020
+End: 527.172
+<i>I have assurances from the chancellor
+his ambassadors did arrive.</i>
+
+Start: 527.300
+End: 530.895
+<i>It must-- handiwork--
+negotiate-- ambassadors--</i>
+
+Start: 531.020
+End: 533.534
+<i>- nobody would--
+- Senator Palpatine.</i>
+
+Start: 533.660
+End: 535.457
+What's happening?
+
+Start: 535.580
+End: 537.377
+Check the transmission generator.
+
+Start: 537.500
+End: 542.130
+A communications disruption
+can mean only one thing: invasion.
+
+Start: 542.260
+End: 544.455
+The Federation
+would not dare go that far.
+
+Start: 544.580
+End: 548.209
+The senate would revoke their trade
+franchise, and they'd be finished.
+
+Start: 548.340
+End: 551.059
+We must continue to rely
+on negotiation.
+
+Start: 551.180
+End: 554.252
+Negotiation?
+We've lost all communications.
+
+Start: 554.380
+End: 556.610
+And where are
+the chancellor's ambassadors?
+
+Start: 557.900
+End: 560.255
+This is a dangerous situation,
+Your Highness.
+
+Start: 560.380
+End: 562.371
+Our security volunteers
+will be no match...
+
+Start: 562.500
+End: 564.536
+against a battle-hardened
+Federation army.
+
+Start: 566.060
+End: 569.609
+I will not condone a course of action
+that will lead us to war.
+
+Start: 604.580
+End: 607.538
+<i>- Yes, Viceroy?
+- Captain, we've searched the ship...</i>
+
+Start: 607.660
+End: 609.696
+<i>and there is no trace of theJedi.</i>
+
+Start: 609.820
+End: 612.459
+<i>They may have gotten on
+one of your landing craft.</i>
+
+Start: 612.580
+End: 614.935
+If they're down here, sir,
+we'll find them.
+
+Start: 615.060
+End: 619.212
+<i>Use caution.
+TheseJedi are not to be underestimated.</i>
+
+Start: 632.460
+End: 634.178
+- Oh, no!
+- Get away! Get out of here!
+
+Start: 635.060
+End: 636.891
+Get down!
+
+Start: 646.500
+End: 649.253
+Was'n dat?
+Hey, wait!
+
+Start: 650.140
+End: 651.812
+Oh, mooie-mooie,
+I love you.
+
+Start: 651.940
+End: 653.896
+You almost got us killed.
+Are you brainless?
+
+Start: 654.020
+End: 655.578
+I spake.
+
+Start: 655.700
+End: 657.736
+The ability to speak
+does not make you intelligent.
+
+Start: 657.860
+End: 660.613
+- Now, get out of here.
+- No, no, mesa stay.
+
+Start: 660.740
+End: 663.652
+Mesa culled Jar Jar Binks.
+Mesa your humble servant.
+
+Start: 663.780
+End: 665.771
+- That won't be necessary.
+- Oh, but it 'tis.
+
+Start: 665.900
+End: 668.653
+'Tis demanded by the gods, it 'tis.
+
+Start: 668.780
+End: 670.611
+- Oh, no!
+- Stay down!
+
+Start: 678.620
+End: 680.292
+You saved my again.
+
+Start: 680.420
+End: 682.217
+- What's this?
+- A local.
+
+Start: 682.340
+End: 684.774
+Let's get out of here
+before more droids show up.
+
+Start: 684.900
+End: 688.131
+More?
+"More'' did you spake?
+
+Start: 688.260
+End: 692.936
+Ex-squeeze-me, but de mostest
+safest place would be Gunga City.
+
+Start: 693.060
+End: 696.132
+Is where I grew up.
+'Tis a hidden city.
+
+Start: 697.700
+End: 699.497
+- A city?
+- Uh-huh.
+
+Start: 699.620
+End: 701.338
+Can you take us there?
+
+Start: 701.860
+End: 703.578
+On second thought, no.
+
+Start: 703.700
+End: 706.089
+- Not really, no.
+- No?
+
+Start: 706.220
+End: 708.256
+'Tis embarrassing...
+
+Start: 708.380
+End: 712.168
+but my afraid
+my've been banished.
+
+Start: 712.300
+End: 715.258
+My forgotten. Da bosses
+would do terrible tings to me.
+
+Start: 715.380
+End: 718.292
+Terrible tings to me
+if me goen back dare.
+
+Start: 718.420
+End: 721.298
+- You hear that?
+- Yah.
+
+Start: 721.420
+End: 725.015
+That is the sound of a thousand
+terrible things heading this way.
+
+Start: 725.140
+End: 727.608
+If they find us,
+they will crush us...
+
+Start: 727.740
+End: 732.097
+grind us into tiny pieces
+and blast us into oblivion.
+
+Start: 732.220
+End: 733.858
+Oh.
+
+Start: 733.980
+End: 735.971
+Yousa point is well seen.
+
+Start: 736.100
+End: 738.330
+Dis way. Hurry!
+
+Start: 743.420
+End: 746.571
+- How much further?
+- Wesa goen underwater, okeyday?
+
+Start: 746.700
+End: 748.497
+Ah, my warning you.
+
+Start: 748.620
+End: 752.579
+Gungans no liken outsiders,
+so don't spect a warm welcome.
+
+Start: 752.700
+End: 755.897
+Don't worry. This hasn't been
+our day for warm welcomes.
+
+Start: 765.900
+End: 768.209
+Yousa follow me now, okeyday?
+
+Start: 811.660
+End: 814.458
+So good bein home!
+
+Start: 830.180
+End: 832.648
+Hey, yousa.
+Stopa dare.
+
+Start: 832.780
+End: 835.010
+Heyo-dales, Cap'n Tarpals.
+
+Start: 835.140
+End: 836.937
+Mesa back.
+
+Start: 837.060
+End: 839.858
+Noah gain,Jar Jar.
+Yousa goen tada bosses.
+
+Start: 839.980
+End: 842.494
+Yousa in big dudu dis time.
+
+Start: 848.060
+End: 849.573
+How wude.
+
+Start: 857.860
+End: 860.169
+Yousa cannot bees hair.
+
+Start: 860.300
+End: 864.657
+Dis army of Mackineeks
+up dare is new weesong.
+
+Start: 864.780
+End: 869.456
+A droid army is about to attack
+the Naboo. We must warn them.
+
+Start: 869.580
+End: 873.016
+Wesa no like da Naboo.
+
+Start: 873.140
+End: 875.813
+Da Naboo tink day so smarty.
+
+Start: 875.940
+End: 878.738
+Day tink day brains so big.
+
+Start: 878.860
+End: 882.819
+Once those droids take control of the
+surface, they will take control of you.
+
+Start: 882.940
+End: 885.135
+Mesa no tink so.
+
+Start: 885.260
+End: 888.013
+Day not know of uss-en.
+
+Start: 888.140
+End: 890.938
+You and the Naboo form
+a symbiont circle.
+
+Start: 891.060
+End: 894.291
+What happens to one of you will affect
+the other. You must understand this.
+
+Start: 894.420
+End: 899.016
+Wesa no carrrre-nn about da Naboo.
+
+Start: 899.140
+End: 901.574
+Then speed us on our way.
+
+Start: 901.700
+End: 904.089
+Wesa ganna speed yous away.
+
+Start: 904.220
+End: 906.893
+We could use a transport.
+
+Start: 907.020
+End: 909.739
+Wesa give yousa una bongo.
+
+Start: 909.860
+End: 912.818
+Da speediest way tooda Naboo...
+
+Start: 912.940
+End: 917.456
+'tis goen through the planet core.
+
+Start: 917.580
+End: 919.377
+Now...
+
+Start: 919.500
+End: 921.218
+go.
+
+Start: 921.340
+End: 923.490
+Thank you for your help.
+We leave in peace.
+
+Start: 923.620
+End: 925.576
+Master, what's a bongo?
+
+Start: 925.700
+End: 927.577
+A transport, I hope.
+
+Start: 927.700
+End: 929.691
+Deysa setten yousa up.
+
+Start: 929.820
+End: 933.290
+Goen through da planet core?
+Bad bombin'.
+
+Start: 934.740
+End: 937.413
+Any help here would be hot.
+
+Start: 938.700
+End: 940.497
+Master, we're short on time.
+
+Start: 941.580
+End: 944.094
+We'll need a navigator to get us
+through the planet's core.
+
+Start: 944.220
+End: 946.097
+This Gungan may be of help.
+
+Start: 948.140
+End: 951.052
+What is to become
+of Jar Jar Binks here?
+
+Start: 951.180
+End: 955.890
+Hisen to be pune-ished.
+
+Start: 956.780
+End: 958.099
+I saved his life.
+
+Start: 958.220
+End: 960.609
+He owes me
+what you call a "life-debt.''
+
+Start: 960.740
+End: 964.415
+Your gods demand
+that his life belongs to me now.
+
+Start: 964.540
+End: 966.770
+Binks...
+
+Start: 966.900
+End: 970.688
+yousa havena liveplay
+with thisen hisen?
+
+Start: 977.180
+End: 978.932
+Begone wit him!
+
+Start: 981.500
+End: 983.775
+Count me outta dis one.
+
+Start: 983.900
+End: 986.892
+Better dead here
+than dead in da core.
+
+Start: 987.020
+End: 990.012
+Yee gods!
+What mesa sayin?
+
+Start: 1007.500
+End: 1010.173
+Dis is nutsen.
+Oh, gooberfish!
+
+Start: 1010.300
+End: 1013.417
+- Why were you banished,Jar Jar?
+- It's a longo tale-o...
+
+Start: 1013.540
+End: 1018.375
+buta a small part of it
+would be mesa... clumsy.
+
+Start: 1018.500
+End: 1023.096
+- You were banished for being clumsy?
+- Yousa might'n be sayin dat.
+
+Start: 1035.500
+End: 1039.539
+Mesa caused mabee one two-y
+lettle bitty axadentes, huh?
+
+Start: 1039.660
+End: 1041.616
+Yud-say boom da gasser...
+
+Start: 1041.740
+End: 1044.413
+den crashin der boss's heyblibber,
+den banished.
+
+Start: 1051.380
+End: 1053.371
+Big gooberfish!
+Huge-o teeth!
+
+Start: 1063.740
+End: 1067.619
+- There's always a bigger fish.
+- Mesa tink we goen back now.
+
+Start: 1078.540
+End: 1081.612
+The invasion is on schedule,
+my lord.
+
+Start: 1081.740
+End: 1084.618
+<i>I have the senate
+bogged down in procedures.</i>
+
+Start: 1084.740
+End: 1088.972
+<i>They will have no choice but
+to accept your control of the system.</i>
+
+Start: 1089.100
+End: 1093.616
+The queen has great faith
+that the senate will side with her.
+
+Start: 1093.740
+End: 1096.573
+<i>Queen Amidala is young and naive.</i>
+
+Start: 1096.700
+End: 1100.010
+<i>You will find controlling her
+will not be difficult.</i>
+
+Start: 1100.140
+End: 1101.937
+Yes, my lord.
+
+Start: 1103.340
+End: 1106.093
+You didn't tell him
+about the missing Jedi.
+
+Start: 1106.220
+End: 1110.532
+No need to report that to him
+until we have something to report.
+
+Start: 1114.860
+End: 1118.409
+- Where wesa goin?
+- Don't worry. The Force will guide us.
+
+Start: 1118.540
+End: 1121.213
+Oh, maxi big, da Force.
+
+Start: 1122.100
+End: 1124.011
+Well, dat smells stinkowiff.
+
+Start: 1125.340
+End: 1127.615
+- We're losing power.
+- Oh, no!
+
+Start: 1133.340
+End: 1135.490
+Wesa dyin' here.
+
+Start: 1135.620
+End: 1138.180
+-Just relax. We're not in trouble yet.
+- What "yet''?
+
+Start: 1138.300
+End: 1141.133
+Monsters out dare.
+Leak'n in here.
+
+Start: 1141.260
+End: 1146.015
+All sink'n and no power?
+Whena yousa tinkin wesa in trouble?
+
+Start: 1147.260
+End: 1149.455
+Power's back.
+
+Start: 1149.580
+End: 1151.571
+Monster's back!
+
+Start: 1159.100
+End: 1160.772
+Relax.
+
+Start: 1160.900
+End: 1162.299
+You overdid it.
+
+Start: 1178.380
+End: 1180.336
+Head for that outcropping.
+
+Start: 1180.460
+End: 1182.291
+Oh, boy.
+
+Start: 1216.180
+End: 1218.171
+Viceroy, we have captured the queen.
+
+Start: 1218.300
+End: 1220.860
+Ah, victory.
+
+Start: 1233.820
+End: 1235.890
+Dis'n loverly.
+
+Start: 1241.820
+End: 1244.050
+How will you explain this invasion
+to the senate?
+
+Start: 1244.180
+End: 1248.173
+The queen and I will sign a treaty that
+will legitimize our occupation here.
+
+Start: 1248.300
+End: 1251.337
+I have assurances
+it will be ratified by the senate.
+
+Start: 1251.460
+End: 1254.770
+- I will not cooperate.
+- Now, now, Your Highness.
+
+Start: 1254.900
+End: 1258.859
+In time, your people's suffering will
+persuade you to see our point of view.
+
+Start: 1260.140
+End: 1261.971
+- Commander.
+- Yes, sir.
+
+Start: 1262.100
+End: 1263.658
+Process them.
+
+Start: 1263.780
+End: 1265.498
+Captain, take them to Camp 4.
+
+Start: 1265.620
+End: 1267.178
+Roger, roger.
+
+Start: 1319.820
+End: 1321.936
+We should leave the street,
+Your Highness.
+
+Start: 1322.060
+End: 1323.618
+Get their weapons.
+
+Start: 1325.380
+End: 1327.530
+Yousa guys bombad!
+
+Start: 1329.100
+End: 1331.375
+We're ambassadors
+for the supreme chancellor.
+
+Start: 1331.500
+End: 1333.297
+Your negotiations seemed
+to have failed, Ambassador.
+
+Start: 1333.420
+End: 1335.172
+The negotiations
+never took place.
+
+Start: 1335.300
+End: 1337.575
+It's urgent that we make contact
+with the Republic.
+
+Start: 1337.700
+End: 1339.691
+They've knocked out
+all our communications.
+
+Start: 1339.820
+End: 1343.017
+- Do you have transports?
+- In the main hangar. This way.
+
+Start: 1347.780
+End: 1350.738
+- There are too many of them.
+- That won't be a problem.
+
+Start: 1350.860
+End: 1354.250
+Your Highness, under the circumstances,
+I suggest you come to Coruscant with us.
+
+Start: 1354.380
+End: 1357.292
+Thank you, Ambassador,
+but my place is with my people.
+
+Start: 1357.420
+End: 1360.014
+- They will kill you if you stay.
+- They wouldn't dare.
+
+Start: 1360.140
+End: 1362.096
+They need her to sign a treaty
+to make this invasion legal.
+
+Start: 1362.220
+End: 1363.699
+They can't afford to kill her.
+
+Start: 1363.820
+End: 1365.856
+There is something else behind all this,
+Your Highness.
+
+Start: 1365.980
+End: 1367.857
+There's no logic
+in the Federation's move here.
+
+Start: 1367.980
+End: 1369.857
+My feelings tell me
+they will destroy you.
+
+Start: 1369.980
+End: 1372.255
+Our only hope is for the senate
+to side with us.
+
+Start: 1372.380
+End: 1374.735
+Senator Palpatine
+will need your help.
+
+Start: 1374.860
+End: 1378.648
+Either choice presents great danger...
+to us all.
+
+Start: 1378.780
+End: 1380.577
+We are brave, Your Highness.
+
+Start: 1380.700
+End: 1383.817
+If you are to leave,
+Your Highness, it must be now.
+
+Start: 1383.940
+End: 1386.295
+Then I will plead our case
+to the senate.
+
+Start: 1387.300
+End: 1389.018
+Be careful, Governor.
+
+Start: 1397.580
+End: 1399.571
+We'll need to free those pilots.
+
+Start: 1400.780
+End: 1402.577
+I'll deal with that.
+
+Start: 1405.900
+End: 1406.889
+Halt.
+
+Start: 1407.020
+End: 1408.612
+I'm ambassador
+to the supreme chancellor.
+
+Start: 1408.740
+End: 1410.253
+I'm taking these people to Coruscant.
+
+Start: 1410.380
+End: 1413.452
+- Where are you taking them?
+- To Coruscant.
+
+Start: 1413.580
+End: 1416.094
+Coruscant?
+Uh, that doesn't compute.
+
+Start: 1416.220
+End: 1418.051
+Uh, wait.
+Uh, you're under arrest.
+
+Start: 1423.300
+End: 1424.449
+Come on. Move!
+
+Start: 1429.620
+End: 1430.530
+Go!
+
+Start: 1455.060
+End: 1458.211
+Now, stay here
+and keep out of trouble.
+
+Start: 1461.860
+End: 1463.930
+Hello, boyos.
+
+Start: 1470.020
+End: 1471.578
+There's the blockade.
+
+Start: 1481.580
+End: 1483.138
+The shield generator's been hit!
+
+Start: 1491.300
+End: 1492.813
+How wude!
+
+Start: 1502.420
+End: 1503.933
+We're losing droids fast.
+
+Start: 1504.740
+End: 1507.254
+If we can't get the shield generator
+fixed, we'll be sitting ducks.
+
+Start: 1509.340
+End: 1510.534
+The shields are gone.
+
+Start: 1518.340
+End: 1519.614
+The power's back!
+
+Start: 1522.300
+End: 1525.610
+That little droid did it.
+He bypassed the main power drive.
+
+Start: 1525.740
+End: 1528.208
+Deflector shields up at maximum.
+
+Start: 1537.420
+End: 1540.969
+There's not enough power to get us
+to Coruscant. The hyperdrive is leaking.
+
+Start: 1541.100
+End: 1543.853
+We'll have to land somewhere
+to refuel and repair the ship.
+
+Start: 1543.980
+End: 1546.050
+Here, Master.
+Tatooine.
+
+Start: 1546.180
+End: 1547.772
+It's small, out of the way, poor.
+
+Start: 1547.900
+End: 1549.572
+The Trade Federation
+have no presence there.
+
+Start: 1549.700
+End: 1551.497
+How can you be sure?
+
+Start: 1551.620
+End: 1553.451
+It's controlled by the Hutts.
+
+Start: 1553.580
+End: 1556.253
+You can't take Her Royal Highness there.
+The Hutts are gangsters.
+
+Start: 1556.380
+End: 1558.575
+- If they discovered her--
+- It'd be no different than landing...
+
+Start: 1558.700
+End: 1560.497
+on a system controlled
+by the Federation...
+
+Start: 1560.620
+End: 1562.611
+except that the Hutts
+aren't looking for her...
+
+Start: 1562.740
+End: 1564.731
+which gives us the advantage.
+
+Start: 1569.020
+End: 1571.898
+<i>And Queen Amidala,
+has she signed the treaty?</i>
+
+Start: 1572.020
+End: 1575.490
+She has disappeared, my lord.
+
+Start: 1575.620
+End: 1579.613
+One Naboo cruiser
+got past the blockade.
+
+Start: 1580.260
+End: 1582.535
+<i>I want that treaty signed.</i>
+
+Start: 1582.660
+End: 1584.616
+My lord...
+
+Start: 1584.740
+End: 1587.174
+it's impossible to locate the ship.
+
+Start: 1587.300
+End: 1589.416
+It's out of our range.
+
+Start: 1589.540
+End: 1591.690
+<i>Not for a Sith.</i>
+
+Start: 1592.260
+End: 1594.057
+<i>This is my apprentice...</i>
+
+Start: 1594.180
+End: 1596.011
+<i>Darth Maul.</i>
+
+Start: 1597.300
+End: 1600.451
+<i>He will find your lost ship.</i>
+
+Start: 1604.620
+End: 1606.815
+This is getting out of hand.
+
+Start: 1606.940
+End: 1608.896
+Now there are two of them.
+
+Start: 1609.020
+End: 1611.898
+We should not
+have made this bargain.
+
+Start: 1616.980
+End: 1620.370
+An extremely well-put-together
+little droid, Your Highness.
+
+Start: 1620.500
+End: 1623.253
+Without a doubt, it saved the ship,
+as well as our lives.
+
+Start: 1623.380
+End: 1626.577
+It is to be commended.
+What is its number?
+
+Start: 1629.140
+End: 1631.176
+R2-D2, Your Highness.
+
+Start: 1631.300
+End: 1632.653
+Thank you, R2-D2.
+
+Start: 1636.300
+End: 1637.653
+Padm�.
+
+Start: 1639.140
+End: 1641.176
+Clean this droid up
+as best you can.
+
+Start: 1641.300
+End: 1643.177
+It deserves our gratitude.
+
+Start: 1644.900
+End: 1646.379
+Continue, Captain.
+
+Start: 1649.220
+End: 1650.972
+Your Highness,
+with your permission...
+
+Start: 1651.100
+End: 1653.739
+we're heading for a remote planet
+called Tatooine.
+
+Start: 1653.860
+End: 1657.057
+It's in a system far beyond the reach
+of the Trade Federation.
+
+Start: 1657.180
+End: 1659.648
+I do not agree
+with the Jedi on this.
+
+Start: 1659.780
+End: 1662.578
+You must trust my judgment,
+Your Highness.
+
+Start: 1665.860
+End: 1667.498
+Hello.
+
+Start: 1667.620
+End: 1670.453
+Sorry. Husa are yousa?
+
+Start: 1671.580
+End: 1672.933
+I'm Padm�.
+
+Start: 1674.020
+End: 1675.931
+Mesa Jar Jar Binks.
+
+Start: 1676.740
+End: 1677.968
+You're a Gungan, aren't you?
+
+Start: 1680.180
+End: 1683.616
+- How'd you end up here with us?
+- My no know.
+
+Start: 1683.740
+End: 1687.255
+Mesa day starten pitty okeyday
+witda brisky morning munchen.
+
+Start: 1687.380
+End: 1690.053
+Den boom!
+Getten berry scared...
+
+Start: 1690.180
+End: 1693.331
+and grabben dat Jedi, and pow--
+mesa here.
+
+Start: 1694.660
+End: 1697.049
+Mesa getten
+berry, berry scared.
+
+Start: 1703.100
+End: 1706.058
+- That's it-- Tatooine.
+- There's a settlement.
+
+Start: 1706.180
+End: 1710.093
+Land near the outskirts.
+We don't want to attract attention.
+
+Start: 1726.660
+End: 1729.333
+The hyperdrive generator's gone, Master.
+We'll need a new one.
+
+Start: 1729.460
+End: 1731.815
+That'll complicate things.
+Be wary.
+
+Start: 1731.940
+End: 1734.932
+- I sense a disturbance in the Force.
+- I feel it also, Master.
+
+Start: 1735.060
+End: 1737.016
+Don't let them send
+any transmissions.
+
+Start: 1742.860
+End: 1745.169
+The sun doen murder to mesa skin.
+
+Start: 1745.300
+End: 1746.733
+Wait!
+
+Start: 1747.780
+End: 1749.133
+Wait.
+
+Start: 1752.420
+End: 1755.173
+Her Highness commands you
+to take her handmaiden with you.
+
+Start: 1755.300
+End: 1758.895
+No more commands
+from Her Highness today, Captain.
+
+Start: 1759.020
+End: 1761.011
+The spaceport
+is not going to be pleasant.
+
+Start: 1761.140
+End: 1763.176
+The queen wishes it.
+
+Start: 1763.300
+End: 1765.131
+She's curious about the planet.
+
+Start: 1767.620
+End: 1770.532
+This is not a good idea.
+Stay close to me.
+
+Start: 1783.780
+End: 1786.499
+Moisture farms,
+for the most part.
+
+Start: 1787.740
+End: 1791.289
+Some indigenous tribes
+and scavengers.
+
+Start: 1791.420
+End: 1793.217
+The few spaceports like this one...
+
+Start: 1793.340
+End: 1795.535
+are havens for those
+that don't wish to be found.
+
+Start: 1795.660
+End: 1797.491
+Like us.
+
+Start: 1798.780
+End: 1801.453
+Dissen berry, berry bad.
+
+Start: 1802.780
+End: 1804.418
+Icky, icky goo!
+
+Start: 1816.900
+End: 1819.209
+We'll try one of the smaller dealers.
+
+Start: 1824.700
+End: 1826.497
+Good day to you.
+
+Start: 1828.100
+End: 1829.419
+What do you want?
+
+Start: 1829.540
+End: 1832.498
+I need parts for a J-type 327 Nubian.
+
+Start: 1832.620
+End: 1836.499
+Ah, yes! Nubian.
+We have lots of that.
+
+Start: 1837.220
+End: 1839.017
+Boy, get in here now!
+
+Start: 1839.140
+End: 1840.937
+My droid has a readout of what I need.
+
+Start: 1843.460
+End: 1845.052
+What took you so long?
+
+Start: 1845.860
+End: 1847.179
+I was cleaning the fan switches.
+
+Start: 1847.300
+End: 1849.939
+Watch the store.
+I've got some selling to do.
+
+Start: 1850.060
+End: 1853.177
+So, let me take thee out back, huh?
+
+Start: 1853.300
+End: 1855.097
+We'll find what you need.
+
+Start: 1857.500
+End: 1859.138
+Don't touch anything.
+
+Start: 1869.060
+End: 1871.813
+- Are you an angel?
+- What?
+
+Start: 1871.940
+End: 1875.489
+An angel. I heard the deep space
+pilots talk about them.
+
+Start: 1875.620
+End: 1878.373
+They're the most beautiful
+creatures in the universe.
+
+Start: 1878.500
+End: 1880.968
+They live on the moons of lego,
+I think.
+
+Start: 1881.740
+End: 1885.255
+You're a funny little boy.
+How do you know so much?
+
+Start: 1885.380
+End: 1889.055
+I listen to all the traders
+and star pilots who come through here.
+
+Start: 1889.180
+End: 1893.298
+I'm a pilot, you know, and someday
+I'm gonna fly away from this place.
+
+Start: 1893.420
+End: 1897.208
+- You're a pilot?
+- Mm-hmm. All my life.
+
+Start: 1897.340
+End: 1899.535
+How long have you been here?
+
+Start: 1899.660
+End: 1903.494
+Since I was very little.
+Three, I think.
+
+Start: 1903.620
+End: 1906.214
+My mom and I were sold
+to Gardulla the Hutt...
+
+Start: 1906.340
+End: 1908.934
+but she lost us
+betting on the Podraces.
+
+Start: 1909.060
+End: 1910.778
+You're a slave?
+
+Start: 1910.900
+End: 1914.859
+- I'm a person, and my name is Anakin.
+- I'm sorry.
+
+Start: 1914.980
+End: 1918.575
+I don't fully understand.
+This is a strange place to me.
+
+Start: 1930.500
+End: 1931.979
+- I got ya.
+- Hey!
+
+Start: 1932.100
+End: 1933.772
+Hit the nose.
+
+Start: 1938.260
+End: 1941.650
+A T-14 hyperdrive generator.
+Thee in luck.
+
+Start: 1941.780
+End: 1944.294
+I'm the only one hereabouts
+who has one.
+
+Start: 1944.420
+End: 1947.776
+But thee might as well buy a new ship.
+It would be cheaper, I think, huh.
+
+Start: 1949.380
+End: 1950.699
+Saying of which...
+
+Start: 1950.820
+End: 1953.095
+how's thee gonna pay
+for all this, huh?
+
+Start: 1953.220
+End: 1955.176
+I have 20,000 Republic dataries.
+
+Start: 1955.300
+End: 1957.052
+Republic credits?
+
+Start: 1957.180
+End: 1959.978
+Republic credits are no good out here.
+I need something more real.
+
+Start: 1960.100
+End: 1963.092
+I don't have anything else,
+but credits will do fine.
+
+Start: 1963.220
+End: 1966.690
+<i>- No, they won't.
+- Credits will do fine.</i>
+
+Start: 1966.820
+End: 1968.572
+No, they won't!
+
+Start: 1968.700
+End: 1972.693
+What, you think you're some kind of Jedi,
+waving your hand around like that?
+
+Start: 1972.820
+End: 1976.893
+I'm a Toydarian. Mind tricks
+don't work on me. Only money.
+
+Start: 1977.700
+End: 1980.931
+No money, no parts, no deal.
+
+Start: 1981.060
+End: 1985.417
+And no one else has a T-14 hyperdrive,
+I promise you that.
+
+Start: 1992.020
+End: 1996.093
+Wouldn't have lasted long anyways
+if I wasn't so good at building things.
+
+Start: 1999.700
+End: 2001.497
+We're leaving.Jar Jar.
+
+Start: 2004.020
+End: 2006.454
+I'm glad to have met you, Anakin.
+
+Start: 2006.580
+End: 2008.332
+I was glad to meet you too.
+
+Start: 2016.380
+End: 2020.737
+Outlanders.
+They think we know nothing.
+
+Start: 2020.860
+End: 2022.691
+They seemed nice to me.
+
+Start: 2022.820
+End: 2024.651
+Clean the racks.
+
+Start: 2024.780
+End: 2026.054
+Then you can go home.
+
+Start: 2026.180
+End: 2027.898
+Yippee!
+
+Start: 2033.700
+End: 2035.975
+<i>And you're sure there's
+nothing left on board?</i>
+
+Start: 2036.100
+End: 2037.897
+A few containers of supplies.
+
+Start: 2038.020
+End: 2040.932
+The queen's wardrobe, maybe,
+but not enough for you to barter with...
+
+Start: 2041.060
+End: 2043.290
+not in the amount
+you're talking about.
+
+Start: 2043.420
+End: 2046.218
+All right. I'm sure
+another solution will present itself.
+
+Start: 2046.340
+End: 2047.659
+I'll check back later.
+
+Start: 2048.420
+End: 2050.012
+Noah gain. Noah gain.
+
+Start: 2050.140
+End: 2052.859
+Da beings hereabouts, cawazy!
+
+Start: 2052.980
+End: 2055.335
+Wesa be wobbed un crunched.
+
+Start: 2055.460
+End: 2058.497
+Not likely. We have nothing of value.
+That's our problem.
+
+Start: 2073.140
+End: 2074.493
+Are you going to pay for that?
+
+Start: 2076.420
+End: 2078.217
+It costs seven wupiupi.
+
+Start: 2083.300
+End: 2084.574
+Oops.
+
+Start: 2088.900
+End: 2090.697
+Is this yours?
+
+Start: 2090.820
+End: 2092.492
+Who, mesa--
+
+Start: 2096.500
+End: 2098.536
+Careful, Sebulba.
+
+Start: 2098.660
+End: 2100.571
+He's a big-time outlander.
+
+Start: 2100.700
+End: 2104.090
+I'd hate to see you diced
+before we race again.
+
+Start: 2104.220
+End: 2107.929
+Next time we race, boy,
+it will be the end of you.
+
+Start: 2108.060
+End: 2110.972
+If you weren't a slave,
+I'd squash you now.
+
+Start: 2111.660
+End: 2114.379
+Yeah, it'd be a pity
+if you had to pay for me.
+
+Start: 2115.460
+End: 2118.452
+- Hi.
+- Hi there.
+
+Start: 2118.580
+End: 2120.298
+Your buddy here was
+about to be turned into orange goo.
+
+Start: 2120.420
+End: 2122.217
+He picked a fight with a Dug...
+
+Start: 2122.340
+End: 2124.729
+an especially dangerous Dug
+called Sebulba.
+
+Start: 2124.860
+End: 2128.296
+Mesa haten crunchen.
+Das da las ting mesa want.
+
+Start: 2128.420
+End: 2132.254
+Nevertheless, the boy is right.
+You were heading into trouble.
+
+Start: 2132.780
+End: 2134.179
+Thanks, my young friend.
+
+Start: 2136.380
+End: 2138.177
+But mesa doen nutten!
+
+Start: 2146.340
+End: 2148.808
+This storm will slow them down.
+
+Start: 2148.940
+End: 2150.373
+Looks pretty bad.
+
+Start: 2151.660
+End: 2154.049
+<i>- Panaka.
+- Receiving a message from home.</i>
+
+Start: 2154.180
+End: 2155.898
+We'll be right there.
+
+Start: 2162.060
+End: 2164.130
+Here, you'll like these pallies.
+
+Start: 2164.260
+End: 2166.728
+- Here.
+- Thank you.
+
+Start: 2167.860
+End: 2170.055
+My bones are aching.
+
+Start: 2170.180
+End: 2174.537
+Storm's coming up, Ani.
+You better get home quick.
+
+Start: 2174.660
+End: 2177.379
+- Do you have shelter?
+- We'll head back to our ship.
+
+Start: 2177.500
+End: 2179.968
+- Is it far?
+- It's on the outskirts.
+
+Start: 2180.100
+End: 2182.375
+You'll never reach
+the outskirts in time.
+
+Start: 2182.500
+End: 2186.209
+Sandstorms are very, very dangerous.
+
+Start: 2186.340
+End: 2188.695
+Come on.
+I'll take you to my place.
+
+Start: 2202.820
+End: 2203.969
+Mom!
+
+Start: 2204.100
+End: 2207.649
+- Mom, I'm home!
+- Ah, dissen cosy.
+
+Start: 2207.780
+End: 2210.055
+- These are my friends, Mom.
+- Hello.
+
+Start: 2210.180
+End: 2213.570
+- I'm Qui-Gon Jinn.
+- I'm building a droid. You wanna see?
+
+Start: 2213.700
+End: 2215.975
+Your son was kind enough
+to offer us shelter.
+
+Start: 2216.100
+End: 2217.977
+Come on. I'll show you 3PO.
+
+Start: 2227.380
+End: 2230.497
+Isn't he great?
+He's not finished yet.
+
+Start: 2230.620
+End: 2231.848
+He's wonderful.
+
+Start: 2233.060
+End: 2234.698
+You really like him?
+
+Start: 2234.820
+End: 2237.618
+He's a protocol droid
+to help Mom. Watch.
+
+Start: 2241.860
+End: 2243.088
+Where is everybody?
+
+Start: 2243.220
+End: 2244.335
+Whoops.
+
+Start: 2247.420
+End: 2248.535
+Oh, hello.
+
+Start: 2248.660
+End: 2251.811
+I am C-3PO,
+human cyborg relations.
+
+Start: 2251.940
+End: 2253.737
+How might I serve you?
+
+Start: 2253.860
+End: 2256.533
+- He's perfect.
+- Oh. Perfect.
+
+Start: 2256.660
+End: 2260.050
+When the storm is over, I'll show you
+my racer. I'm building a Podracer.
+
+Start: 2261.380
+End: 2263.814
+I'm not sure this floor
+is entirely stable.
+
+Start: 2263.940
+End: 2267.012
+Hello. I don't believe
+we have been introduced.
+
+Start: 2268.860
+End: 2271.010
+R2-D2.
+A pleasure to meet you.
+
+Start: 2271.140
+End: 2274.052
+I am C-3PO,
+human cyborg relations.
+
+Start: 2276.580
+End: 2279.652
+I beg your pardon,
+but what do you mean, " naked''?
+
+Start: 2281.260
+End: 2284.377
+My parts are showing?
+My goodness!
+
+Start: 2288.820
+End: 2291.175
+<i>The death toll is catastrophic.</i>
+
+Start: 2291.300
+End: 2293.575
+<i>We must bow to their wishes.</i>
+
+Start: 2293.700
+End: 2295.656
+<i>You must contact me.</i>
+
+Start: 2295.780
+End: 2298.340
+It's a trick.
+Send no reply.
+
+Start: 2298.460
+End: 2300.371
+Send no transmissions of any kind.
+
+Start: 2302.580
+End: 2305.333
+It sounds like bait
+to establish a connection trace.
+
+Start: 2305.460
+End: 2309.248
+<i>What if it is true,
+and the people are dying?</i>
+
+Start: 2309.380
+End: 2311.735
+Either way,
+we're running out of time.
+
+Start: 2324.820
+End: 2326.856
+Tatooine is sparsely populated.
+
+Start: 2326.980
+End: 2329.653
+If the trace was correct,
+I will find them quickly, Master.
+
+Start: 2329.780
+End: 2331.577
+Move against the Jedi first.
+
+Start: 2331.700
+End: 2334.294
+You will then have no difficulty
+in taking the queen to Naboo...
+
+Start: 2334.420
+End: 2336.217
+to sign the treaty.
+
+Start: 2336.340
+End: 2338.410
+At last we will reveal ourselves
+to the Jedi.
+
+Start: 2338.540
+End: 2340.849
+At last we will have revenge.
+
+Start: 2340.980
+End: 2343.733
+You have been well-trained,
+my young apprentice.
+
+Start: 2343.860
+End: 2346.135
+They will be no match for you.
+
+Start: 2350.820
+End: 2354.654
+All slaves have a transmitter
+placed inside their bodies somewhere.
+
+Start: 2355.700
+End: 2358.578
+I've been working on a scanner
+to try and locate mine.
+
+Start: 2358.700
+End: 2362.056
+- Any attempt to escape--
+- And they blow you up!
+
+Start: 2362.940
+End: 2364.453
+How wude!
+
+Start: 2364.580
+End: 2366.889
+I can't believe
+there's still slavery in the galaxy.
+
+Start: 2367.020
+End: 2368.817
+The Republic's antislavery laws--
+
+Start: 2368.940
+End: 2371.170
+The Republic doesn't exist out here.
+
+Start: 2371.300
+End: 2373.370
+We must survive on our own.
+
+Start: 2374.340
+End: 2375.773
+Xcuse me.
+
+Start: 2377.780
+End: 2380.214
+Has anybody ever seen a Podrace?
+
+Start: 2380.340
+End: 2382.058
+They have Podracing
+on Malastare.
+
+Start: 2382.180
+End: 2384.774
+Very fast, very dangerous.
+
+Start: 2385.540
+End: 2387.337
+I'm the only human who can do it.
+
+Start: 2387.460
+End: 2390.338
+You must have Jedi reflexes
+if you race pods.
+
+Start: 2391.420
+End: 2392.739
+Don't do that again.
+
+Start: 2397.980
+End: 2400.448
+You're a Jedi knight, aren't you?
+
+Start: 2403.300
+End: 2406.053
+- What makes you think that?
+- I saw your laser sword.
+
+Start: 2406.180
+End: 2408.933
+Only Jedis carry
+that kind of weapon.
+
+Start: 2409.060
+End: 2412.052
+Perhaps I killed a Jedi
+and took it from him.
+
+Start: 2412.180
+End: 2413.738
+I don't think so.
+
+Start: 2413.860
+End: 2415.930
+No one can kill a Jedi.
+
+Start: 2416.740
+End: 2418.696
+I wish that were so.
+
+Start: 2418.820
+End: 2420.776
+I had a dream I was a Jedi.
+
+Start: 2420.900
+End: 2423.937
+I came back here
+and freed all the slaves.
+
+Start: 2424.060
+End: 2427.257
+- Have you come to free us?
+- No, I'm afraid not.
+
+Start: 2427.380
+End: 2431.532
+I think you have.
+Why else would you be here?
+
+Start: 2436.220
+End: 2438.859
+I can see there's
+no fooling you, Anakin.
+
+Start: 2438.980
+End: 2441.858
+We're on our way to Coruscant,
+the central system in the Republic...
+
+Start: 2441.980
+End: 2443.891
+on a very important mission.
+
+Start: 2444.020
+End: 2446.932
+How did you end up out here
+in the outer rim?
+
+Start: 2447.060
+End: 2450.530
+Our ship was damaged, and we're
+stranded here until we can repair it.
+
+Start: 2451.740
+End: 2454.812
+I can help.
+I can fix anything.
+
+Start: 2454.940
+End: 2456.373
+I believe you can.
+
+Start: 2456.500
+End: 2459.173
+But first we must acquire
+the parts we need.
+
+Start: 2459.300
+End: 2461.894
+Wit no-nutten mula to trade.
+
+Start: 2462.020
+End: 2465.410
+These junk dealers
+must have a weakness of some kind.
+
+Start: 2465.540
+End: 2469.658
+Gambling. Everything here revolves
+around betting on those awful races.
+
+Start: 2469.780
+End: 2470.974
+Podracing.
+
+Start: 2471.100
+End: 2473.898
+Greed can be a powerful ally.
+
+Start: 2474.020
+End: 2476.773
+I built a racer.
+It's the fastest ever.
+
+Start: 2476.900
+End: 2479.095
+There's a big race tomorrow
+on Boonta Eve.
+
+Start: 2479.220
+End: 2481.097
+You could enter my pod.
+
+Start: 2482.020
+End: 2484.932
+- Anakin, Watto won't let you.
+- Watto doesn't know I've built it.
+
+Start: 2485.060
+End: 2486.857
+You could make him think
+it was yours...
+
+Start: 2486.980
+End: 2489.096
+and get him
+to let me pilot it for you.
+
+Start: 2489.220
+End: 2490.733
+I don't want you to race.
+It's awful.
+
+Start: 2490.860
+End: 2493.249
+I die every time
+Watto makes you do it.
+
+Start: 2493.380
+End: 2495.416
+But, Mom, I love it.
+
+Start: 2495.540
+End: 2498.930
+The prize money would more than pay
+for the parts they need.
+
+Start: 2499.060
+End: 2501.255
+Anakin.
+
+Start: 2501.380
+End: 2504.019
+Your mother's right.
+
+Start: 2504.140
+End: 2507.098
+Is there anyone friendly to the Republic
+who can help us?
+
+Start: 2508.540
+End: 2510.132
+No.
+
+Start: 2515.020
+End: 2519.457
+Mom, you say the biggest problem in this
+universe is nobody helps each other.
+
+Start: 2524.100
+End: 2526.853
+I'm sure Qui-Gon doesn't want
+to put your son in danger.
+
+Start: 2526.980
+End: 2528.811
+We'll find some other way.
+
+Start: 2531.180
+End: 2533.535
+There is no other way.
+
+Start: 2533.660
+End: 2537.812
+I may not like it,
+but he can help you.
+
+Start: 2538.660
+End: 2540.457
+He was meant to help you.
+
+Start: 2553.460
+End: 2555.257
+Are you sure about this?
+
+Start: 2555.380
+End: 2557.894
+Trusting our fate
+to a boy we hardly know?
+
+Start: 2558.020
+End: 2559.976
+The queen will not approve.
+
+Start: 2560.100
+End: 2561.897
+The queen doesn't need to know.
+
+Start: 2562.980
+End: 2564.538
+Well, I don't approve.
+
+Start: 2565.620
+End: 2568.134
+The boy tells me you want
+to sponsor him in the race.
+
+Start: 2568.260
+End: 2569.818
+How can you do this?
+
+Start: 2569.940
+End: 2573.091
+Not on the Republic credits,
+I think.
+
+Start: 2573.220
+End: 2575.290
+My ship will be the entry fee.
+
+Start: 2575.780
+End: 2577.418
+Not bad!
+
+Start: 2577.540
+End: 2580.373
+Not bad, huh?
+Nubian, huh?
+
+Start: 2580.500
+End: 2583.651
+It's in good order,
+except for the parts I need.
+
+Start: 2583.780
+End: 2586.169
+What would the boy ride?
+
+Start: 2586.300
+End: 2589.690
+He smashed up my pod in the last race.
+It would take some long time to fix it.
+
+Start: 2589.820
+End: 2592.050
+It wasn't my fault.
+Really.
+
+Start: 2592.180
+End: 2593.738
+Sebulba flashed me with his vents.
+
+Start: 2593.860
+End: 2597.091
+I actually saved the pod, mostly.
+
+Start: 2598.180
+End: 2600.535
+That you did.
+
+Start: 2600.660
+End: 2603.333
+The boy's good.
+No doubts there, huh?
+
+Start: 2603.460
+End: 2605.849
+I have acquired a pod
+in a game of chance.
+
+Start: 2605.980
+End: 2607.572
+The fastest ever built.
+
+Start: 2607.700
+End: 2612.615
+I hope you didn't kill
+anyone I know for it, huh?
+
+Start: 2614.500
+End: 2617.890
+So, you supply the pod
+and the entry fee...
+
+Start: 2618.020
+End: 2619.339
+and I supply the boy.
+
+Start: 2619.460
+End: 2623.169
+We split the winnings 50-50,
+I think, huh?
+
+Start: 2623.300
+End: 2625.097
+If it's going to be 50-50...
+
+Start: 2625.220
+End: 2627.734
+I suggest you front the cash
+for the entry.
+
+Start: 2627.860
+End: 2629.816
+If we win...
+
+Start: 2629.940
+End: 2633.569
+you keep all the winnings,
+minus the cost of the parts I need.
+
+Start: 2633.700
+End: 2636.772
+And if we lose,
+you keep my ship.
+
+Start: 2639.140
+End: 2640.493
+Either way, you win.
+
+Start: 2646.060
+End: 2647.334
+Deal!
+
+Start: 2652.340
+End: 2656.413
+Your friend
+is a foolish one, methinks.
+
+Start: 2664.060
+End: 2666.858
+What if this plan fails, Master?
+
+Start: 2666.980
+End: 2669.574
+We could be stuck here
+a very long time.
+
+Start: 2669.700
+End: 2672.134
+<i>Well, it's too dangerous
+to call for help...</i>
+
+Start: 2672.260
+End: 2675.491
+and a ship without a power supply
+isn't going to get us anywhere.
+
+Start: 2675.620
+End: 2677.497
+And...
+
+Start: 2677.620
+End: 2679.417
+there's something about this boy.
+
+Start: 2685.980
+End: 2688.210
+You should be very proud of your son.
+
+Start: 2688.940
+End: 2691.170
+He gives without any thought
+of reward.
+
+Start: 2691.300
+End: 2694.053
+He knows nothing of greed.
+
+Start: 2694.180
+End: 2695.215
+He has--
+
+Start: 2696.180
+End: 2697.977
+He has special powers.
+
+Start: 2699.700
+End: 2700.849
+Yes.
+
+Start: 2700.980
+End: 2703.494
+He can see things
+before they happen.
+
+Start: 2703.620
+End: 2706.293
+That's why he appears
+to have such quick reflexes.
+
+Start: 2706.420
+End: 2708.217
+It's a Jedi trait.
+
+Start: 2708.340
+End: 2711.013
+He deserves better
+than a slave's life.
+
+Start: 2711.140
+End: 2714.371
+Had he been born in the Republic,
+we would have identified him early.
+
+Start: 2716.700
+End: 2720.295
+The Force is unusually strong with him.
+That much is clear.
+
+Start: 2720.420
+End: 2722.092
+Who was his father?
+
+Start: 2724.700
+End: 2726.531
+There was no father.
+
+Start: 2727.940
+End: 2731.137
+I carried him,
+I gave birth, I raised him.
+
+Start: 2731.980
+End: 2734.369
+I can't explain what happened.
+
+Start: 2735.980
+End: 2737.698
+Can you help him?
+
+Start: 2737.820
+End: 2739.617
+I don't know.
+
+Start: 2742.020
+End: 2745.490
+I didn't actually come here
+to free slaves.
+
+Start: 2758.100
+End: 2759.897
+Wow, a real astro droid!
+
+Start: 2761.740
+End: 2765.335
+- How do you get so lucky?
+- That isn't the half of it.
+
+Start: 2765.460
+End: 2768.293
+- I'm in the Boonta race tomorrow.
+- What?
+
+Start: 2768.420
+End: 2770.058
+With this?
+
+Start: 2770.180
+End: 2772.819
+You're such a joker, Ani.
+
+Start: 2772.940
+End: 2776.012
+- You've been working on that for years.
+- It's never gonna run.
+
+Start: 2776.140
+End: 2778.210
+Come on.
+Let's go and play ball.
+
+Start: 2778.340
+End: 2781.491
+Keep racing, Ani.
+You're gonna be bug squash.
+
+Start: 2789.700
+End: 2791.975
+Keep away from
+those energy binders.
+
+Start: 2792.100
+End: 2795.410
+If your hand gets caught in the beam,
+it's gonna go numb for hours.
+
+Start: 2795.540
+End: 2796.859
+Okay.
+
+Start: 2800.420
+End: 2802.854
+My tongue is fat.
+
+Start: 2802.980
+End: 2805.938
+My tongue-- Wrench.
+
+Start: 2806.060
+End: 2808.620
+Where is de wrench?
+Oh, dare it is.
+
+Start: 2812.900
+End: 2814.379
+I'm stuck.
+
+Start: 2814.500
+End: 2818.334
+You know, I find that Jar Jar creature
+to be a little odd.
+
+Start: 2820.100
+End: 2822.819
+You don't even know
+if this thing's gonna run.
+
+Start: 2822.940
+End: 2824.931
+- It will.
+- I think it's time we found out.
+
+Start: 2825.060
+End: 2827.176
+- Here, use this power charge.
+- Yes, sir!
+
+Start: 2827.300
+End: 2829.256
+Come on, Kitster.
+Let's move away.
+
+Start: 2829.380
+End: 2831.496
+My mouth.
+
+Start: 2831.620
+End: 2832.894
+Ani, I'm stuck.
+
+Start: 2837.900
+End: 2839.970
+My tongue is fat.
+
+Start: 2840.100
+End: 2842.933
+You're quite right.
+He's very odd indeed.
+
+Start: 2845.060
+End: 2847.016
+Thank you.
+
+Start: 2847.140
+End: 2848.493
+Go.
+
+Start: 2862.420
+End: 2865.890
+It's working!
+It's working!
+
+Start: 2876.100
+End: 2878.489
+Stay still, Ani.
+Let me clean this cut.
+
+Start: 2878.620
+End: 2882.374
+There's so many.
+Do they all have a system of planets?
+
+Start: 2882.500
+End: 2884.297
+Most of them.
+
+Start: 2884.420
+End: 2886.297
+Has anyone been to 'em all?
+
+Start: 2887.940
+End: 2889.089
+Not likely.
+
+Start: 2890.180
+End: 2892.296
+I wanna be the first one
+to see 'em all.
+
+Start: 2893.460
+End: 2895.735
+Ani, bedtime!
+
+Start: 2895.860
+End: 2898.499
+There we are.
+Good as new.
+
+Start: 2898.620
+End: 2901.373
+Ani, I'm not gonna tell you again.
+
+Start: 2901.500
+End: 2904.776
+- What are you doing?
+- Checking your blood for infections.
+
+Start: 2904.900
+End: 2906.379
+Go on.
+
+Start: 2906.500
+End: 2908.377
+You have a big day tomorrow.
+
+Start: 2908.500
+End: 2910.297
+Sleep well, Ani.
+
+Start: 2912.940
+End: 2914.851
+<i>- Obi-Wan?
+- Yes, Master?</i>
+
+Start: 2914.980
+End: 2917.574
+I need an analysis
+of this blood sample I'm sending you.
+
+Start: 2917.700
+End: 2919.338
+Wait a minute.
+
+Start: 2920.980
+End: 2922.857
+I need a midi-chlorian count.
+
+Start: 2925.700
+End: 2928.214
+The reading is off the chart.
+
+Start: 2928.340
+End: 2930.137
+Over 20,000.
+
+Start: 2930.260
+End: 2933.730
+<i>Even Master Yoda doesn't have
+a midi-chlorian count that high.</i>
+
+Start: 2933.860
+End: 2935.578
+No Jedi has.
+
+Start: 2935.700
+End: 2937.656
+What does that mean?
+
+Start: 2938.500
+End: 2940.058
+I'm not sure.
+
+Start: 3007.140
+End: 3009.893
+I wanna see your spaceship
+the moment the race is over.
+
+Start: 3010.020
+End: 3011.692
+Patience, my blue friend.
+
+Start: 3011.820
+End: 3013.970
+You'll have your winnings
+before the suns set.
+
+Start: 3014.100
+End: 3015.818
+And we'll be far away from here.
+
+Start: 3015.940
+End: 3019.819
+Not if your ship belongs to me,
+I think, huh?
+
+Start: 3019.940
+End: 3023.171
+I warn you, no funny business.
+
+Start: 3023.300
+End: 3026.292
+- You don't think Anakin can win?
+- Don't get me wrongo.
+
+Start: 3026.420
+End: 3028.775
+I have great faith in the boy.
+
+Start: 3028.900
+End: 3030.936
+He's a credit to your race...
+
+Start: 3031.060
+End: 3034.132
+but Sebulba there
+is going to win, I think.
+
+Start: 3036.180
+End: 3037.852
+Oh, no!
+
+Start: 3041.860
+End: 3043.612
+Why do you think that?
+
+Start: 3043.740
+End: 3045.537
+He always wins!
+
+Start: 3047.460
+End: 3049.815
+I am betting heavily on Sebulba.
+
+Start: 3051.580
+End: 3054.174
+- I'll take that bet.
+- What?
+
+Start: 3054.900
+End: 3058.097
+I'll wager my new racing pod
+against, say...
+
+Start: 3058.220
+End: 3060.017
+the boy and his mother.
+
+Start: 3060.140
+End: 3063.689
+No pod is worth two slaves,
+not by a long shot.
+
+Start: 3064.580
+End: 3066.252
+The boy, then.
+
+Start: 3072.220
+End: 3074.609
+We'll let fate decide, huh?
+
+Start: 3074.740
+End: 3078.016
+I just happen to have
+a chance cube here.
+
+Start: 3078.140
+End: 3081.052
+Blue, it's the boy.
+
+Start: 3081.180
+End: 3082.249
+Red...
+
+Start: 3083.620
+End: 3085.178
+his mother.
+
+Start: 3094.500
+End: 3096.809
+You won this small toss,
+outlander...
+
+Start: 3096.940
+End: 3098.976
+but you won't win the race!
+
+Start: 3099.100
+End: 3101.091
+So it makes little difference!
+
+Start: 3110.500
+End: 3115.210
+Better stop your friend's betting
+or I'll end up owning him too.
+
+Start: 3118.820
+End: 3121.209
+- What'd he mean by that?
+- I'll tell you later.
+
+Start: 3121.340
+End: 3122.659
+Good morning.
+
+Start: 3124.700
+End: 3127.339
+Oh, my.
+Space travel sounds rather perilous.
+
+Start: 3129.340
+End: 3133.174
+I can assure you, they will never get me
+onto one of those dreadful starships.
+
+Start: 3133.300
+End: 3136.531
+This is so wizard, Ani.
+I'm sure you'll do it this time.
+
+Start: 3136.660
+End: 3137.695
+Do what?
+
+Start: 3137.820
+End: 3140.732
+Finish the race, of course.
+
+Start: 3140.860
+End: 3142.532
+You've never won a race?
+
+Start: 3142.660
+End: 3145.254
+Well, not exactly.
+
+Start: 3145.380
+End: 3147.291
+Not even finished?
+
+Start: 3147.420
+End: 3149.775
+Kitster's right.
+I will this time.
+
+Start: 3149.900
+End: 3151.856
+Of course you will.
+
+Start: 3180.300
+End: 3182.052
+That's absolutely right.
+
+Start: 3182.180
+End: 3187.015
+And a big turnout here from all corners
+of the outer rim territories.
+
+Start: 3187.140
+End: 3190.610
+I see the contestants are making
+their way out onto the starting grid.
+
+Start: 3192.620
+End: 3195.339
+<i>I see Ben Quadinaros
+from the Tund System.</i>
+
+Start: 3200.780
+End: 3203.135
+<i>Two-time winner Boles Roor.</i>
+
+Start: 3205.580
+End: 3207.298
+<i>Sebulba!</i>
+
+Start: 3217.300
+End: 3220.258
+And in the front row,
+nearside pole position...
+
+Start: 3220.380
+End: 3222.291
+<i>Mawhonic!</i>
+
+Start: 3223.460
+End: 3225.416
+<i>A hearty hello...</i>
+
+Start: 3225.540
+End: 3229.089
+<i>to Clegg Holdfast
+and his Voltec KT9 Wasp!</i>
+
+Start: 3231.980
+End: 3234.858
+<i>And back again,
+it's the mighty Dud Bolt...</i>
+
+Start: 3234.980
+End: 3239.371
+<i>with that incredible racing machine,
+the Vulptereen 327.</i>
+
+Start: 3242.580
+End: 3244.775
+<i>And hoping for a big win today...</i>
+
+Start: 3244.900
+End: 3249.132
+<i>Ody Mandrell,
+with his record-setting pit droid team.</i>
+
+Start: 3253.820
+End: 3256.937
+<i>And a late entry,
+young Anakin Skywalker...</i>
+
+Start: 3257.060
+End: 3258.288
+<i>a local boy.</i>
+
+Start: 3260.900
+End: 3263.050
+I see the flags are moving
+out onto the track.
+
+Start: 3282.460
+End: 3283.939
+Be safe.
+
+Start: 3284.060
+End: 3286.290
+I will, Mom. I promise.
+
+Start: 3301.820
+End: 3304.380
+You won't walk away from this one...
+
+Start: 3304.500
+End: 3306.650
+you slave scum.
+
+Start: 3306.780
+End: 3309.897
+Don't count on it, slime ball.
+
+Start: 3310.020
+End: 3312.295
+You're bantha fodder!
+
+Start: 3316.700
+End: 3318.816
+- You all set, Ani?
+- Yep.
+
+Start: 3318.940
+End: 3320.498
+Right.
+
+Start: 3324.460
+End: 3326.974
+Remember, concentrate
+on the moment.
+
+Start: 3327.100
+End: 3330.695
+Feel, don't think.
+Use your instincts.
+
+Start: 3330.820
+End: 3332.378
+I will.
+
+Start: 3332.500
+End: 3334.616
+May the Force be with you.
+
+Start: 3343.220
+End: 3345.131
+Jabba the Hutt.
+
+Start: 3354.940
+End: 3359.172
+Welcome.
+
+Start: 3360.100
+End: 3363.217
+Begin the race!
+
+Start: 3373.340
+End: 3376.377
+<i>Hey, looks like
+they're clearing the grid.</i>
+
+Start: 3377.540
+End: 3379.337
+- Is he nervous?
+- He's fine.
+
+Start: 3380.900
+End: 3383.653
+You Jedi are far too reckless.
+The queen is not--
+
+Start: 3383.780
+End: 3386.533
+The queen trusts my judgment,
+young handmaiden.
+
+Start: 3386.660
+End: 3388.776
+You should too.
+
+Start: 3388.900
+End: 3390.891
+You assume too much.
+
+Start: 3391.620
+End: 3393.929
+<i>Start your engines.</i>
+
+Start: 3431.620
+End: 3434.817
+Oh, dissen gonna be messy.
+Me no watch'n!
+
+Start: 3454.020
+End: 3455.248
+Oh, no!
+
+Start: 3460.660
+End: 3463.811
+Wait.
+Little Skywalker has stalled.
+
+Start: 3473.860
+End: 3477.899
+<i>It looks like Quadinaros
+is having engine trouble also.</i>
+
+Start: 3479.420
+End: 3480.648
+Come on, Ani!
+
+Start: 3486.820
+End: 3488.333
+<i>And there goes Skywalker!</i>
+
+Start: 3488.460
+End: 3489.859
+Go, Ani, go!
+
+Start: 3489.980
+End: 3492.016
+<i>He will be hard-pressed
+to catch up with the leaders.</i>
+
+Start: 3563.100
+End: 3565.898
+<i>Looks like a few Tusken Raiders
+are camped out...</i>
+
+Start: 3566.020
+End: 3568.215
+<i>on the canyon dune turn.</i>
+
+Start: 3578.980
+End: 3582.529
+There goes Quadinaros'
+power coupling.
+
+Start: 3609.140
+End: 3611.256
+Oh, no!
+
+Start: 3615.860
+End: 3617.657
+Where is Master Anakin?
+
+Start: 3620.780
+End: 3622.896
+Look. Here he comes.
+
+Start: 3625.660
+End: 3627.890
+<i>It looks like Skywalker
+is moving up in the field.</i>
+
+Start: 3628.740
+End: 3630.093
+Yay! Yippee!
+
+Start: 3637.300
+End: 3640.736
+He has to complete
+two more circuits? Oh, dear.
+
+Start: 3705.580
+End: 3707.377
+Skywalker's
+spinning out of control!
+
+Start: 3762.940
+End: 3766.728
+I don't care what universe you're from.
+That's gotta hurt!
+
+Start: 3773.500
+End: 3775.138
+Here he comes!
+
+Start: 3775.260
+End: 3778.252
+<i>At the start of the third and final lap,
+Sebulba's in the lead...</i>
+
+Start: 3778.380
+End: 3780.769
+<i>followed closely by Skywalker!</i>
+
+Start: 3780.900
+End: 3781.730
+Go, Ani!
+
+Start: 3807.660
+End: 3809.890
+Skywalker's been forced
+onto the service ramp!
+
+Start: 3830.700
+End: 3832.019
+It's Skywalker!
+
+Start: 3832.940
+End: 3834.214
+Sebulba!
+
+Start: 3834.340
+End: 3838.413
+Amazing! A quick control thrust,
+and he's back on course!
+
+Start: 3838.540
+End: 3840.212
+Did he crash-ed?
+
+Start: 3879.500
+End: 3882.572
+Skywalker's in trouble!
+Sebulba takes the lead!
+
+Start: 3933.420
+End: 3935.012
+He's catching Sebulba!
+
+Start: 3936.100
+End: 3938.489
+Careful, Ani. Careful, Ani!
+
+Start: 3967.620
+End: 3969.895
+That little human being
+is out of his mind!
+
+Start: 3970.980
+End: 3972.095
+<i>They're side by side!</i>
+
+Start: 3999.580
+End: 4001.377
+- Yippee!
+- Yay!
+
+Start: 4005.420
+End: 4007.058
+I can't believe it.
+
+Start: 4007.180
+End: 4009.011
+The crowds are going nuts!
+
+Start: 4010.000
+End: 4013.057
+Best watched using Open Subtitles MKV Player
+
